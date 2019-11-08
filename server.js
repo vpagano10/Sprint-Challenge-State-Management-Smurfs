@@ -20,7 +20,7 @@ let smurfs = [
     id: 0
   },
   {
-    name: 'Name',
+    name: 'PaPa',
     age: 200,
     height: '5cm',
     id: 1
